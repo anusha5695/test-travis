@@ -1,0 +1,22 @@
+{
+  "name": "test-travis",
+  "version": "0.0.1",
+  "description": "this is sample proj",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anusha5695/test-travis.git"
+  },
+  "keywords": [
+    "abc"
+  ],
+  "author": "anusha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anusha5695/test-travis/issues"
+  },
+  "homepage": "https://github.com/anusha5695/test-travis#readme"
+}
