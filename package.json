@@ -4,6 +4,7 @@
   "description": "this is sample proj",
   "main": "index.js",
   "scripts": {
+    "test": "jest --coverage --passWithNoTests"
   },
   "repository": {
     "type": "git",
@@ -17,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/anusha5695/test-travis/issues"
   },
-  "homepage": "https://github.com/anusha5695/test-travis#readme"
+  "homepage": "https://github.com/anusha5695/test-travis#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
 }
