@@ -4,7 +4,6 @@
   "description": "this is sample proj",
   "main": "index.js",
   "scripts": {
-    "test": "test"
   },
   "repository": {
     "type": "git",
